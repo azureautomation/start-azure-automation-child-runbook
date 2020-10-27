@@ -1,0 +1,20 @@
+{
+    "Author": "Azure Automation Product Team",
+    "ContentSize": 9175,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/start-azure-automation-child-runbook/master/Start-AutomationChildRunbook.ps1",
+    "DownloadCount": 1917,
+    "Id": "Start-Azure-Automation-1ac858a9",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 137,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2014-7-26T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This runbook starts an Azure Automation runbook job and either returns the job id or waits for the job to complete and returns the job output.",
+    "Title": "Start Azure Automation Child Runbook",
+    "UpdatedDate": "2015-1-16T00:00:00",
+    "Url": "https://github.com/azureautomation/start-azure-automation-child-runbook",
+    "UserTags": "Utility"
+}
